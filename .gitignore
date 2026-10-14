@@ -1,0 +1,12 @@
+# Databases and runtimes
+*.db
+*.db-journal
+
+# Python caching
+__pycache__/
+*.pyc
+
+# Local environments
+.venv/
+env/
+.env
